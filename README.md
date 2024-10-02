@@ -5,7 +5,7 @@
 This notebook delves into a dataset featuring some of the world’s most intelligent individuals. It provides a comprehensive analysis across various metrics, offering insights into their exceptional cognitive abilities and achievements. By visualizing and exploring these attributes, the notebook aims to shed light on key trends and comparisons among these notable figures.
 
 
-**Key Features**
+**Key Features:**
 
 1. Data Exploration: Detailed analysis and visualization of data related to intelligent individuals to uncover key patterns and attributes.
 2. Feature Engineering: Enhancing data features to improve the depth and clarity of the analysis.
