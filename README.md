@@ -1,6 +1,6 @@
 # Top-Intelligent-People-In-The-World
 
-**Overview:**
+**Overview**
 
 This notebook delves into a dataset featuring some of the world’s most intelligent individuals. It provides a comprehensive analysis across various metrics, offering insights into their exceptional cognitive abilities and achievements. By visualizing and exploring these attributes, the notebook aims to shed light on key trends and comparisons among these notable figures.
 
