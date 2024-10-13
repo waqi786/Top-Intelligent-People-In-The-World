@@ -13,7 +13,7 @@ This notebook delves into a dataset featuring some of the world’s most intelli
 4. Trend Analysis: Examination of various metrics to understand their impact on the profiles of intelligent individuals.
 
 
-**Installation and Usage**
+**Installation and Usage:**
 
 1. Clone the repository:
 
